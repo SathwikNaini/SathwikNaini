@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sathwik naini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathwik naini" height="30" width="40" /></a>
-<a href="https://instagram.com/sathwik.naini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sathwik.naini" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sathwik-naini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathwik-naini" height="30" width="40" /></a>
+<a href="https://instagram.com/sathwi.naini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sathwi.naini" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sathwiknaini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sathwiknaini" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@23951a66h6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@23951a66h6" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/naini_sathwik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naini_sathwik" height="30" width="40" /></a>
