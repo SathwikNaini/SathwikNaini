@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA & Advanced UI Animations**
 
-- 🌐 [Portfolio](https://naini-portfolio.netlify.app/)
+- 🌐Portfolio [Naini](https://naini-portfolio.netlify.app/)
 
 - 💬 Ask me about **React**
 
